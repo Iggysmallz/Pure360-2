@@ -1,0 +1,5 @@
+{
+  "name": "Pure360 Cleaning Services",
+  "description": "A modern, responsive web application for Pure360, a company offering a variety of cleaning services. The platform allows users to browse services like pool cleaning, gardening, and car washing in a user-friendly tabbed interface, similar to platforms like SweepSouth.",
+  "requestFramePermissions": []
+}
